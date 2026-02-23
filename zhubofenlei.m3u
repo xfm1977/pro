@@ -1,28 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:12480/e.xml"
 
-# ======= 4K超清 =======
-#EXTINF:-1 group-title="4K超清",CCTV-4K
-udp://@238.200.200.92:5540
-#EXTINF:-1 group-title="4K超清",欢笑剧场4K
-udp://@238.200.200.252:5540
-#EXTINF:-1 group-title="4K超清",东方卫视4K
-udp://@238.200.200.20:5540
-#EXTINF:-1 group-title="4K超清",北京卫视4K
-udp://@238.200.200.11:5540
-#EXTINF:-1 group-title="4K超清",江苏卫视4K
-udp://@238.200.200.101:5540
-#EXTINF:-1 group-title="4K超清",浙江卫视4K
-udp://@238.200.200.106:5540
-#EXTINF:-1 group-title="4K超清",湖南卫视4K
-udp://@238.200.200.168:5540
-#EXTINF:-1 group-title="4K超清",山东卫视4K
-udp://@238.200.200.103:5540
-#EXTINF:-1 group-title="4K超清",广东卫视4K
-udp://@238.200.200.30:5540
-#EXTINF:-1 group-title="4K超清",深圳卫视4K
-udp://@238.200.200.21:5540
-#EXTINF:-1 group-title="4K超清",四川卫视4K
-udp://@238.200.200.100:5540
+
 
 # ======= 上海本地频道 =======
 #EXTINF:-1 group-title="上海本地",新闻综合HD
@@ -337,30 +315,3 @@ udp://@238.200.200.180:5540
 udp://@238.200.200.109:5540
 #EXTINF:-1 group-title="专业频道",家庭理财
 udp://@238.200.200.188:5540
-
-
-# ======= 其他频道 =======
-#EXTINF:-1 group-title="其他频道",导视
-udp://@238.200.200.78:5540
-#EXTINF:-1 group-title="其他频道",直播室101
-udp://@238.200.200.143:5540
-#EXTINF:-1 group-title="其他频道",直播室102
-udp://@238.200.200.144:5540
-#EXTINF:-1 group-title="其他频道",直播室103
-udp://@238.200.200.145:5540
-#EXTINF:-1 group-title="其他频道",直播室104
-udp://@238.200.200.146:5540
-#EXTINF:-1 group-title="其他频道",直播室105
-udp://@238.200.200.147:5540
-#EXTINF:-1 group-title="其他频道",直播室106
-udp://@238.200.200.148:5540
-#EXTINF:-1 group-title="其他频道",直播室107
-udp://@238.200.200.149:5540
-#EXTINF:-1 group-title="其他频道",直播室108
-udp://@238.200.200.214:5540
-#EXTINF:-1 group-title="其他频道",直播室109
-udp://@238.200.200.215:5540
-#EXTINF:-1 group-title="其他频道",直播室110
-udp://@238.200.200.216:5540
-#EXTINF:-1 group-title="其他频道",直播室111
-udp://@238.200.200.217:5540
